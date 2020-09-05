@@ -1,0 +1,638 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Aissaelbey2016Sparse}
+\selectlanguageifdefined{english}
+Aissa-El-Bey~A., Seghouane~K. Sparse canonical correlation analysis based on
+  rank-1 matrix approximation and its application for FMRI signals~//
+  Proceedings of the IEEE International Conference on Acoustics Speech and
+  Signal Processing (ICASSP).
+\newblock Shanghai: IEEE, 2016.
+\newblock P.~4678--4682.
+
+\bibitem{Golub1980Analysis}
+\selectlanguageifdefined{english}
+Golub~G.~H., Van~Loan~C.~F. An analysis of the total least squares problem~//
+  SIAM Journal on Numerical Analysis.
+\newblock 1980.
+\newblock Vol.~17, N~6.
+\newblock P.~883--893.
+
+\bibitem{Abdollahi2017Using}
+\selectlanguageifdefined{english}
+Abdollahi~B., Nasraoui~O. Using explainability for constrained matrix
+  factorization~// Proceedings of the Eleventh ACM Conference on Recommender
+  Systems.
+\newblock Como, Italy: ACM, 2017.
+\newblock P.~79--83.
+
+\bibitem{Kannan2013Bounded}
+\selectlanguageifdefined{english}
+Kannan~R., Ishteva~M., Park~H. Bounded matrix factorization for recommender
+  system~// Knowledge and Information Systems.
+\newblock 2014.
+\newblock Vol.~39, N~3.
+\newblock P.~491--511.
+
+\bibitem{Xiu2015Rankone}
+\selectlanguageifdefined{english}
+Xiu~X., Kong~L. Rank-one and sparse matrix decomposition for dynamic MRI~//
+  Numerical Algebra, Control and Optimization.
+\newblock 2015.
+\newblock Vol.~5, N~2.
+\newblock P.~127--134.
+
+\bibitem{Belachew2017Solving}
+\selectlanguageifdefined{english}
+Belachew~M.~T., Gillis~N. Solving the maximum clique problem with symmetric
+  rank-one non-negative matrix approximation~// Journal of Optimization Theory
+  and Applications.
+\newblock 2017.
+\newblock N~173.
+\newblock P.~279--296.
+
+\bibitem{Saaty1993Prinyatie}
+\selectlanguageifdefined{russian}
+Саати~Т. Принятие решений. Метод анализа
+  иерархий.
+\newblock Москва: Радио и связь, 1993.
+\newblock {с.}~278.
+
+\bibitem{Artamonov2016Group}
+\selectlanguageifdefined{russian}
+Артамонов~Ю.~Н. Групповой выбор с
+  использованием матричных норм~// Известия
+  Иркутск. гос. ун-та.
+\newblock 2016.
+\newblock Т.~18.
+\newblock {С.}~3--20.
+
+\bibitem{Krivulin2015Rating}
+\selectlanguageifdefined{english}
+Krivulin~N. Rating alternatives from pairwise comparisons by solving tropical
+  optimization problems~// 12th International Conference on Fuzzy Systems and
+  Knowledge Discovery (FSKD 2015)~/ Ed. by Z.~Tang, J.~Du, S.~Yin et~al.
+\newblock IEEE, 2015.
+\newblock P.~162--167.
+
+\bibitem{Krivulin2016Using}
+\selectlanguageifdefined{english}
+Krivulin~N. Using tropical optimization techniques to evaluate alternatives via
+  pairwise comparisons~// 2016 Proceedings of the 7th SIAM Workshop on
+  Combinatorial Scientific Computing~/ Ed. by A.~H.~Gebremedhin, E.~G.~Boman,
+  B.~Ucar.
+\newblock Philadelphia, PA: SIAM, 2016.
+\newblock P.~62--72.
+
+\bibitem{Gillis2017Introduction}
+\selectlanguageifdefined{english}
+Gillis~N. Introduction to nonnegative matrix factorization~// SIAG/OPT Views
+  and News.
+\newblock 2017.
+\newblock Vol.~25, N~1.
+\newblock P.~7--16.
+
+\bibitem{Kumar2017Literature}
+\selectlanguageifdefined{english}
+Kumar~N.~K., Schneider~J. Literature survey on low rank approximation of
+  matrices~// Linear Multilinear Algebra.
+\newblock 2017.
+\newblock Vol.~65, N~11.
+\newblock P.~2212--2244.
+
+\bibitem{Elden2007Matrix}
+\selectlanguageifdefined{english}
+Eld\'en~L. Matrix methods in data mining and pattern recognition~/ Ed. by
+  N.~J.~Higham; University of Manchester.
+\newblock SIAM, 2007.
+\newblock Vol.~4 of \BibEmph{Fundamentals of algorithms}.
+\newblock p.~184.
+
+\bibitem{Markovsky2012Low}
+\selectlanguageifdefined{english}
+Markovsky~I. Low rank approximation. Communications and Control Engineering.
+\newblock London: Springer, 2012.
+\newblock p.~256.
+
+\bibitem{Ma2018Gradient}
+\selectlanguageifdefined{english}
+Ma~Y., Olshevsky~A., Szepesvari~C. et~al. Gradient descent for sparse rank-one
+  matrix completion for crowd-sourced aggregation of sparsely interacting
+  workers~// Proceedings of the 35th International Conference on Machine
+  Learning.
+\newblock Vol.~80.
+\newblock Stockholm, Sweden: PMLR, 2018.
+\newblock P.~3335--3344.
+
+\bibitem{Hofmann1999Probabilistic}
+\selectlanguageifdefined{english}
+Hofmann~T. Probabilistic latent semantic analysis~// Proceedings of the
+  Fifteenth Conference on Uncertainty in Artificial Intelligence~/ Ed. by
+  K.~B.~Laskey, H.~Prade.
+\newblock Stockholm, Sweden: UAI, 1999.
+\newblock P.~289--296.
+
+\bibitem{Berry2009Document}
+\selectlanguageifdefined{english}
+Berry~M.~W., Gillis~N., Glineur~F. Document classification using nonnegative
+  matrixfactorization and underapproximation~// Proceedings of the IEEE
+  International Symposium on Circuits and Systems.
+\newblock Taipei, Taiwan: 2009.  May.
+\newblock P.~2782--2785.
+
+\bibitem{Shi2017Rankone}
+\selectlanguageifdefined{english}
+Shi~Q., Lu~H., Cheung~Y.~M. Rank-one matrix completion with automatic rank
+  estimation via $L1$-norm regularization~// IEEE Transactions on Neural
+  Networks and Learning Systems.
+\newblock 2017.
+\newblock Vol.~29, N~10.
+\newblock P.~4744--4757.
+
+\bibitem{Markovsky2013Structured}
+\selectlanguageifdefined{english}
+Markovsky~I., Usevich~K. Structured low-rank approximation with missing data~//
+  SIAM Journal on Matrix Analysis and Applications.
+\newblock 2013.
+\newblock Vol.~34, N~2.
+\newblock P.~814--830.
+
+\bibitem{Srebro2003Weighted}
+\selectlanguageifdefined{english}
+Srebro~N., Jaakkola~T. Weighted low-rank approximations~// Proceedings of the
+  12th International Conference on Machine Learning (ICML-2003).
+\newblock Vol.~3.
+\newblock Washington DC: 2003.
+\newblock P.~720--727.
+
+\bibitem{Shen2008Sparse}
+\selectlanguageifdefined{english}
+Shen~H., Huang~J. Sparse principal component analysis via regularized low rank
+  matrix approximation~// Journal of Multivariate Analysis.
+\newblock 2008.
+\newblock Vol.~99, N~6.
+\newblock P.~1015--1034.
+
+\bibitem{Feldman2015MoreConstraints}
+\selectlanguageifdefined{english}
+Feldman~D., Tassa~T. More constraints, smaller coresets: constrained matrix
+  approximation of sparse big data~// KDD '15: Proceedings of the 21st ACM
+  SIGKDD International Conference on Knowledge Discovery and Data Mining.
+\newblock Sydney, NSW, Australia: ACM, 2015.  August.
+\newblock P.~249--258.
+
+\bibitem{Chandrasekaran2011Rank}
+\selectlanguageifdefined{english}
+Chandrasekaran~V., Sanghavi~S., Parrilo~P. et~al. Rank-sparsity incoherence for
+  matrix decomposition~// SIAM Journal on Optimization.
+\newblock 2011.
+\newblock Vol.~21, N~2.
+\newblock P.~572--596.
+
+\bibitem{Kyrillidis2018Simple}
+\selectlanguageifdefined{english}
+Kyrillidis~A. Simple and practical algorithms for $l_{p}$-norm low-rank
+  approximation~// 34th Conference on Uncertainty in Artificial Intelligence
+  (UAI).
+\newblock Monterey, CA.: 2018.  August.
+\newblock P.~414--424.
+
+\bibitem{Gillis2019LowRank}
+\selectlanguageifdefined{english}
+Gillis~N., Shitov~Y. Low-rank matrix approximation in the infinity norm~//
+  Linear Algebra Appl.
+\newblock 2019.
+\newblock Vol. 581, N~15.
+\newblock P.~367--382.
+
+\bibitem{Panyukov2018Approximation}
+\selectlanguageifdefined{english}
+Panyukov~A., Chaloob~K., Mezal~Y. Approximation of a matrix with positive
+  elements by a matrix of a unit rank~// 2018 IEEE Symposium on Computer
+  Applications \& Industrial Electronics (ISCAIE).
+\newblock Penang, Malaysia: IEEE, 2018.  April.
+\newblock P.~234--237.
+
+\bibitem{Lobo1998Applications}
+\selectlanguageifdefined{english}
+Lobo~M., Vandenberghe~L., Boyd~S. et~al. Applications of second-order cone
+  programming~// Linear Algebra and its Applications.
+\newblock 1998.
+\newblock Vol. 284.
+\newblock P.~193--228.
+
+\bibitem{Boyd2004Convex}
+\selectlanguageifdefined{english}
+Boyd~S., Vandenberghe~L. Convex optimization.
+\newblock Cambridge University Press, 2004.
+\newblock p.~716.
+
+\bibitem{Kleene1956Representation}
+\selectlanguageifdefined{english}
+Kleene~S.~C. Representation of events in nerve sets and finite automata~//
+  Automata Studies~/ Ed. by J.~McCarthy, C.~Shannon.
+\newblock Princeton: Princeton Univ. Press, 1956.
+\newblock P.~3--40.
+
+\bibitem{Bellman1956OnQuasiLinear}
+\selectlanguageifdefined{english}
+Bellman~R. On a quasi-linear equation~// Canadian Journal of Mathematics.
+\newblock 1956.
+\newblock Vol.~8.
+\newblock P.~198--202.
+
+\bibitem{Vorobyov1963Extremal}
+\selectlanguageifdefined{russian}
+Воробьев~Н.~Н. Экстремальная алгебра
+  неотрицательных матриц~// Elektronische
+  Informationsverarbeitung und Kybernetik.
+\newblock 1963.
+\newblock Т. 152, {№}~1.
+\newblock {С.}~24--27.
+
+\bibitem{Vorobyov1967Extremal}
+\selectlanguageifdefined{russian}
+Воробьев~Н.~Н. Экстремальная алгебра
+  положительных матриц~// Elektronische
+  Informationsverarbeitung und Kybernetik.
+\newblock 1967.
+\newblock Т.~3, {№}~1.
+\newblock {С.}~39--72.
+
+\bibitem{Vorobyov1970Extremal}
+\selectlanguageifdefined{russian}
+Воробьев~Н.~Н. Экстремальная алгебра
+  неотрицательных матриц~// Elektronische
+  Informationsverarbeitung und Kybernetik.
+\newblock 1970.
+\newblock Т.~6, {№}~4/5.
+\newblock {С.}~303--312.
+
+\bibitem{Korbut1965Extremal}
+\selectlanguageifdefined{russian}
+Корбут~А.~А. Экстремальные пространства~//
+  Доклады АН СССР.
+\newblock 1965.
+\newblock Т. 164, {№}~6.
+\newblock {С.}~1229--1231.
+
+\bibitem{Korbut1972Extremal}
+\selectlanguageifdefined{russian}
+Корбут~А.~А. Экстремальные векторные
+  пространства и их свойства~// Elektronische
+  Informationsverarbeitung und Kybernetik.
+\newblock 1972.
+\newblock Т.~8, {№}~8/9.
+\newblock {С.}~525--536.
+
+\bibitem{Romanovsky1967Optimization}
+\selectlanguageifdefined{russian}
+Романовский~И.~В. Оптимизация
+  стационарного управления дискретным
+  детерминированным процессом~//
+  Кибернетика.
+\newblock 1967.
+\newblock {№}~2.
+\newblock {С.}~66--78.
+
+\bibitem{Romanovsky1967Asymptotic}
+\selectlanguageifdefined{russian}
+Романовский~И.~В. Асимптотическое
+  поведение дискретного
+  детерминированного процесса с
+  непрерывным множеством состояний~//
+  Оптимальное планирование / Сборник трудов
+  Института математики СО АН СССР.
+\newblock 1967.
+\newblock {№}~8.
+\newblock {С.}~171--193.
+
+\bibitem{Romanovsky1971Determinate}
+\selectlanguageifdefined{russian}
+Романовский~И.~В. Детерминированные
+  процессы динамического программирования
+  с дополнительными ограничениями~//
+  Кибернетика.
+\newblock 1971.
+\newblock {№}~5.
+\newblock {С.}~69--71.
+
+\bibitem{Cuninghame1979Minimax}
+\selectlanguageifdefined{english}
+Cuninghame-Green~R.~A. Minimax algebra.
+\newblock Berlin: Springer, 1979.
+\newblock Vol.~166 of \BibEmph{Lecture Notes in Economics and Mathematical
+  Systems}.
+\newblock p.~258.
+
+\bibitem{Zimmermann1981Linear}
+\selectlanguageifdefined{english}
+Zimmermann~U. Linear and combinatorial optimization in ordered algebraic
+  structures.
+\newblock Amsterdam: Elsevier, 1981.
+\newblock Vol.~10 of \BibEmph{Annals of Discrete Mathematics}.
+\newblock p.~390.
+
+\bibitem{Maslov1994Idempotent}
+\selectlanguageifdefined{russian}
+Маслов~В.~П., Колокольцов~В.~Н. Идемпотентный
+  анализ и его применение в оптимальном
+  управлении.
+\newblock Москва: Физматлит, 1994.
+\newblock {с.}~144.
+
+\bibitem{Kolokoltsov1997Idempotent}
+\selectlanguageifdefined{english}
+Kolokoltsov~V.~N., Maslov~V.~P. Idempotent analysis and its applications.
+\newblock Dordrecht: Kluwer Academic Publishers, 1997.
+\newblock Vol.~401 of \BibEmph{Mathematics and Its Applications}.
+\newblock p.~324.
+
+\bibitem{Litvinov2001Idempotent}
+\selectlanguageifdefined{russian}
+Литвинов~Г.~Л., Маслов~В.~П., Соболевский~А.~Н.
+  Идемпотентная математика и интервальный
+  анализ~// Вычислительные технологии.
+\newblock 2001.
+\newblock Т.~6, {№}~6.
+\newblock {С.}~47--70.
+
+\bibitem{Pin1998Tropical}
+\selectlanguageifdefined{english}
+Pin~J. Tropical semirings~// Idempotency~/ Ed. by J.~Gunawardena.
+\newblock Cambridge University Press, 1998.
+\newblock Vol.~11.
+\newblock P.~50--69.
+
+\bibitem{Golan2003Semirings}
+\selectlanguageifdefined{english}
+Golan~J.~S. Semirings and affine equations over them: theory and applications.
+\newblock Dordrecht: Kluwer Academic Publishers, 2003.
+\newblock Vol.~556 of \BibEmph{Mathematics and Its Applications}.
+\newblock p.~256.
+
+\bibitem{Heidergott2006Max}
+\selectlanguageifdefined{english}
+Heidergott~B., Olsder~G.~J., van~der Woude~J. Max plus at work: modeling and
+  analysis of synchronized systems: a course on max-plus algebra and its
+  applications. Princeton Series in Applied Mathematics.
+\newblock Princeton, Oxford: Princeton University Press, 2006.
+\newblock p.~224.
+
+\bibitem{McEneaney2006Maxplus}
+\selectlanguageifdefined{english}
+McEneaney~W.~M. Max-plus methods for nonlinear control and estimation. Systems
+  and Control: Foundations and Applications.
+\newblock Boston: Birkh\"auser, 2006.
+\newblock p.~241.
+
+\bibitem{Krivulin2009Methods}
+\selectlanguageifdefined{russian}
+Кривулин~Н.~К. Методы идемпотентной алгебры
+  в задачах моделирования и анализа сложных
+  систем.
+\newblock СПб.: Издательство
+  Санкт-Петербургского государственного
+  университета, 2009.
+\newblock {с.}~256.
+
+\bibitem{Butkovic2010MaxLinear}
+\selectlanguageifdefined{english}
+Butkovi\v{c}~P. Max-linear systems: theory and algorithms.
+\newblock London: Springer, 2010.
+\newblock p.~272.
+
+\bibitem{Baccelli1992Synchronization}
+\selectlanguageifdefined{english}
+Baccelli~F., Cohen~G., Olsder~G.~J. et~al. Synchronization and linearity: an
+  algebra for discrete event systems.
+\newblock Chichester: John Wiley and Sons Ltd, 1992.
+\newblock p.~514.
+
+\bibitem{Krivulin2014Tropical}
+\selectlanguageifdefined{english}
+Krivulin~N. Tropical optimization problems~// Advances in Economics and
+  Optimization~/ Ed. by L.~A.~Petrosyan, J.~V.~Romanovsky, D.~W.~K.~Yeung.
+\newblock New York: Nova Sci. Publ., 2014.
+\newblock P.~195--214.
+\newblock (Economic Issues, Problems and Perspectives).
+
+\bibitem{Krivulin2015Extremal}
+\selectlanguageifdefined{english}
+Krivulin~N. Extremal properties of tropical eigenvalues and solutions to
+  tropical optimization problems~// Linear Algebra and its Applications.
+\newblock 2015.
+\newblock Vol. 468.
+\newblock P.~211--232.
+
+\bibitem{Cuninghame1962Describing}
+\selectlanguageifdefined{english}
+Cuninghame-Green~R.~A. Describing industrial processes with interference and
+  approximating their steady-state behaviour~// Operations Research Quarterly.
+\newblock 1962.
+\newblock Vol.~13, N~1.
+\newblock P.~95--100.
+
+\bibitem{Krivulin2017Tropicaloptimization}
+\selectlanguageifdefined{english}
+Krivulin~N. Tropical optimization problems in time-constrained project
+  scheduling~// Optimization.
+\newblock 2017.
+\newblock Vol.~66, N~2.
+\newblock P.~205--224.
+
+\bibitem{Elsner2004MaxAlgebra}
+\selectlanguageifdefined{english}
+Elsner~L., van~den Driessche~P. Max-algebra and pairwise comparison matrices~//
+  Linear Algebra and its Applications.
+\newblock 2004.
+\newblock Vol. 385, N~1.
+\newblock P.~47--62.
+
+\bibitem{Elsner2010MaxAlgebra}
+\selectlanguageifdefined{english}
+Elsner~L., van~den Driessche~P. Max-algebra and pairwise comparison matrices,
+  II~// Linear Algebra and its Applications.
+\newblock 2010.
+\newblock Vol. 432, N~4.
+\newblock P.~927--935.
+
+\bibitem{Krivulin2017Application}
+\selectlanguageifdefined{russian}
+Кривулин~Н.~К., Агеев~В.~А., Гладких~И.~В.
+  Применение методов тропической
+  оптимизации для оценки альтернатив на
+  основе парных сравнений~// Вестник
+  Санкт-Петербургского университета. Серия
+  10. Прикладная математика. Информатика.
+  Процессы управления.
+\newblock 2017.
+\newblock Т.~13, {№}~1.
+\newblock {С.}~27--41.
+
+\bibitem{Krivulin2019Tropical}
+\selectlanguageifdefined{english}
+Krivulin~N., Sergeev~S. Tropical implementation of the Analytical Hierarchy
+  Process decision method~// Fuzzy Sets and Systems.
+\newblock 2019.
+\newblock Vol. 377.
+\newblock P.~31--51.
+
+\bibitem{Krivulin2011Extremal}
+\selectlanguageifdefined{english}
+Krivulin~N.~K. An extremal property of the eigenvalue of irreducible matrices
+  in idempotent algebra and solution of the Rawls location problem~// Vestnik
+  St. Petersburg University: Mathematics.
+\newblock 2011.
+\newblock Vol.~44, N~4.
+\newblock P.~272--281.
+
+\bibitem{Krivulin2011Algebraic}
+\selectlanguageifdefined{english}
+Krivulin~N.~K. An algebraic approach to multidimensional minimax location
+  problems with Chebyshev distance~// WSEAS Transactions on Mathematics.
+\newblock 2011.
+\newblock Vol.~10, N~6.
+\newblock P.~191--200.
+
+\bibitem{Krivulin2012New}
+\selectlanguageifdefined{english}
+Krivulin~N.~K. A new algebraic solution to multidimensional minimax location
+  problems with Chebyshev distance~// WSEAS Transactions on Mathematics.
+\newblock 2012.
+\newblock Vol.~11, N~7.
+\newblock P.~605--614.
+
+\bibitem{Zimmermann2006Interval}
+\selectlanguageifdefined{english}
+Zimmermann~K. Interval linear systems and optimization problems over
+  max-algebras~// Linear Optimization Problems with Inexact Data.
+\newblock New York: Springer, 2006.
+\newblock P.~165--193.
+
+\bibitem{Cuninghame1976Projections}
+\selectlanguageifdefined{english}
+Cuninghame-Green~R.~A. Projections in minimax algebra~// Mathematical
+  Programming.
+\newblock 1976.
+\newblock Vol.~10.
+\newblock P.~111--123.
+
+\bibitem{Krivulin2014Constrained}
+\selectlanguageifdefined{english}
+Krivulin~N. A constrained tropical optimization problem: Complete solution and
+  application example~// Tropical and Idempotent Mathematics and Applications~/
+  Ed. by G.~L.~Litvinov, S.~N.~Sergeev.
+\newblock AMS, Providence, RI, 2014.
+\newblock Vol.~616 of Contemporary Mathematics.
+\newblock P.~163--177.
+
+\bibitem{Krivulin2015Multidimensional}
+\selectlanguageifdefined{english}
+Krivulin~N. A multidimensional tropical optimization problem with nonlinear
+  objective function and linear constraints~// Optimization.
+\newblock 2015.
+\newblock Vol.~64, N~5.
+\newblock P.~1107--1129.
+
+\bibitem{Krivulin2018RankoneRus}
+\selectlanguageifdefined{russian}
+Кривулин~Н.~К., Романова~Е. Ю. Одноранговая
+  аппроксимация положительных матриц на
+  основе методов тропической математики~//
+  Вестник Санкт-Петербургского
+  университета. Математика. Механика.
+  Астрономия.
+\newblock 2018.
+\newblock Т. 5 (63), {№}~2.
+\newblock {С.}~225--239.
+
+\bibitem{Krivulin2019OnRankoneRus}
+\selectlanguageifdefined{russian}
+Кривулин~Н.~К., Романова~Е. Ю. Об
+  одноранговой аппроксимации
+  положительных матриц с помощью методов
+  тропической оптимизации~// Вестник
+  Санкт-Петербургского университета.
+  Математика. Механика. Астрономия.
+\newblock 2019.
+\newblock Т. 6 (64), {№}~2.
+\newblock {С.}~208--220.
+
+\bibitem{Krivulin2018Rankone}
+\selectlanguageifdefined{english}
+Krivulin~N.~K., Romanova~E.~Y. Rank-one approximation of positive matrices
+  based on methods of tropical mathematics~// Vestnik St. Petersburg
+  University, Mathematics.
+\newblock 2018.
+\newblock Vol.~51, N~2.
+\newblock P.~133--143.
+
+\bibitem{Krivulin2019OnRankone}
+\selectlanguageifdefined{english}
+Krivulin~N.~K., Romanova~E.~Y. On the rank-one approximation of positive
+  matrices using tropical optimization methods~// Vestnik St. Petersburg
+  University, Mathematics.
+\newblock 2019.
+\newblock Vol.~52, N~2.
+\newblock P.~145--153.
+
+\bibitem{Krivulin2017SPISOK}
+\selectlanguageifdefined{russian}
+Кривулин~Н.~К., Романова~Е.~Ю. Одноранговая
+  аппроксимация положительных матриц с
+  использованием методов тропической
+  математики~// Материалы 7-й всероссийской
+  научной конференции по проблемам
+  информатики СПИСОК-2017.
+\newblock СПб.: ВВМ, 2017.
+\newblock {С.}~529--535.
+
+\bibitem{Krivulin2017Rankone}
+\selectlanguageifdefined{russian}
+Кривулин~Н.~К., Романова~Е. Ю. Одноранговая
+  аппроксимация положительных матриц с
+  использованием методов тропической
+  математики~// Proceedings of the International Scientific
+  Conference Mathematical Modeling Vol. 1/1.
+\newblock Sofia: Scientific Technucal Union of Mechanical Engineering
+  "INDUSTRY-4.0", 2017.
+\newblock {С.}~33--35.
+
+\bibitem{Krivulin2019Using}
+\selectlanguageifdefined{english}
+Krivulin~N., Romanova~E. Using tropical optimization in rank-one approximation
+  of non-negative matrices~// International Conference Polynomial Computer
+  Algebra ‘2019~/ Ed. by N.~N.~Vassiliev.
+\newblock VVM Pubishing, 2019.  April.
+\newblock P.~85--88.
+
+\bibitem{Carre1971Algebra}
+\selectlanguageifdefined{english}
+Carr\'e~B.~A. An algebra for network routing problems~// IMA Journal of Applied
+  Mathematics.
+\newblock 1971.
+\newblock Vol.~7, N~3.
+\newblock P.~273--294.
+
+\bibitem{Tocenko2002Methods}
+\selectlanguageifdefined{russian}
+Тоценко~В.~Г. Методы и системы поддержки
+  принятия решений: алгоритмический аспект.
+\newblock Киев: Наукова думка, 2002.
+\newblock {с.}~382.
+
+\bibitem{Litvak1996Expert}
+\selectlanguageifdefined{russian}
+Литвак~Б.~Г. Экспертные оценки и принятие
+  решений.
+\newblock Москва: Патент, 1996.
+\newblock {с.}~271.
+
+\end{thebibliography}
